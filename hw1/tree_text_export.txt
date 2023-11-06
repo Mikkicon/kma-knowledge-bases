@@ -1,0 +1,289 @@
+|--- Company_Adaptiq <= 0.50
+|   |--- Україна <= 0.50
+|   |   |--- ОбʼєднаніАрабськіЕмірати <= 0.50
+|   |   |   |--- Category_Node.js <= 0.50
+|   |   |   |   |--- Domain_SaaS <= 0.50
+|   |   |   |   |   |--- Domain_Fintech <= 0.50
+|   |   |   |   |   |   |--- Category_Salesforce <= 0.50
+|   |   |   |   |   |   |   |--- Category_Lead <= 0.50
+|   |   |   |   |   |   |   |   |--- Category_Golang <= 0.50
+|   |   |   |   |   |   |   |   |   |--- Німеччина <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- Category_ERP <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 24
+|   |   |   |   |   |   |   |   |   |   |--- Category_ERP >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.24]
+|   |   |   |   |   |   |   |   |   |--- Німеччина >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- Category_Marketing <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- Category_Marketing >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- Category_Golang >  0.50
+|   |   |   |   |   |   |   |   |   |--- value: [0.25]
+|   |   |   |   |   |   |   |--- Category_Lead >  0.50
+|   |   |   |   |   |   |   |   |--- Релокейт <= 0.50
+|   |   |   |   |   |   |   |   |   |--- value: [0.26]
+|   |   |   |   |   |   |   |   |--- Релокейт >  0.50
+|   |   |   |   |   |   |   |   |   |--- value: [0.21]
+|   |   |   |   |   |   |--- Category_Salesforce >  0.50
+|   |   |   |   |   |   |   |--- value: [0.19]
+|   |   |   |   |   |--- Domain_Fintech >  0.50
+|   |   |   |   |   |   |--- Ізраїль <= 0.50
+|   |   |   |   |   |   |   |--- Category_PHP <= 0.50
+|   |   |   |   |   |   |   |   |--- Category_Marketing <= 0.50
+|   |   |   |   |   |   |   |   |   |--- Category_Business Analyst <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- English_Advanced/Fluent <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- English_Advanced/Fluent >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- Category_Business Analyst >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.16]
+|   |   |   |   |   |   |   |   |--- Category_Marketing >  0.50
+|   |   |   |   |   |   |   |   |   |--- value: [0.11]
+|   |   |   |   |   |   |   |--- Category_PHP >  0.50
+|   |   |   |   |   |   |   |   |--- value: [0.11]
+|   |   |   |   |   |   |--- Ізраїль >  0.50
+|   |   |   |   |   |   |   |--- value: [0.05]
+|   |   |   |   |--- Domain_SaaS >  0.50
+|   |   |   |   |   |--- English_Pre-Intermediate <= 0.50
+|   |   |   |   |   |   |--- Category_C++ <= 0.50
+|   |   |   |   |   |   |   |--- Болгарія <= 0.50
+|   |   |   |   |   |   |   |   |--- Category_Data Science <= 0.50
+|   |   |   |   |   |   |   |   |   |--- Category_Sales <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- Employment_Office або Remote <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |   |--- Employment_Office або Remote >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.11]
+|   |   |   |   |   |   |   |   |   |--- Category_Sales >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.08]
+|   |   |   |   |   |   |   |   |--- Category_Data Science >  0.50
+|   |   |   |   |   |   |   |   |   |--- value: [0.31]
+|   |   |   |   |   |   |   |--- Болгарія >  0.50
+|   |   |   |   |   |   |   |   |--- Category_Head Chief <= 0.50
+|   |   |   |   |   |   |   |   |   |--- value: [0.27]
+|   |   |   |   |   |   |   |   |--- Category_Head Chief >  0.50
+|   |   |   |   |   |   |   |   |   |--- value: [0.35]
+|   |   |   |   |   |   |--- Category_C++ >  0.50
+|   |   |   |   |   |   |   |--- value: [0.37]
+|   |   |   |   |   |--- English_Pre-Intermediate >  0.50
+|   |   |   |   |   |   |--- value: [0.01]
+|   |   |   |--- Category_Node.js >  0.50
+|   |   |   |   |--- Domain_Gamedev <= 0.50
+|   |   |   |   |   |--- Фінляндія <= 0.50
+|   |   |   |   |   |   |--- Болгарія <= 0.50
+|   |   |   |   |   |   |   |--- Молдова <= 0.50
+|   |   |   |   |   |   |   |   |--- English_Upper-Intermediate <= 0.50
+|   |   |   |   |   |   |   |   |   |--- English_Intermediate <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- СполученіШтати <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.13]
+|   |   |   |   |   |   |   |   |   |   |--- СполученіШтати >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.17]
+|   |   |   |   |   |   |   |   |   |--- English_Intermediate >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- Польща <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.23]
+|   |   |   |   |   |   |   |   |   |   |--- Польща >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.19]
+|   |   |   |   |   |   |   |   |--- English_Upper-Intermediate >  0.50
+|   |   |   |   |   |   |   |   |   |--- Кіпр <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- Domain_SaaS <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.21]
+|   |   |   |   |   |   |   |   |   |   |--- Domain_SaaS >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.19]
+|   |   |   |   |   |   |   |   |   |--- Кіпр >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.25]
+|   |   |   |   |   |   |   |--- Молдова >  0.50
+|   |   |   |   |   |   |   |   |--- value: [0.29]
+|   |   |   |   |   |   |--- Болгарія >  0.50
+|   |   |   |   |   |   |   |--- value: [0.29]
+|   |   |   |   |   |--- Фінляндія >  0.50
+|   |   |   |   |   |   |--- Employment_Гібридна робота <= 0.50
+|   |   |   |   |   |   |   |--- value: [0.11]
+|   |   |   |   |   |   |--- Employment_Гібридна робота >  0.50
+|   |   |   |   |   |   |   |--- value: [0.17]
+|   |   |   |   |--- Domain_Gamedev >  0.50
+|   |   |   |   |   |--- Румунія <= 0.50
+|   |   |   |   |   |   |--- value: [0.35]
+|   |   |   |   |   |--- Румунія >  0.50
+|   |   |   |   |   |   |--- value: [0.37]
+|   |   |--- ОбʼєднаніАрабськіЕмірати >  0.50
+|   |   |   |--- Category_Marketing <= 0.50
+|   |   |   |   |--- Релокейт <= 0.50
+|   |   |   |   |   |--- English_Upper-Intermediate <= 0.50
+|   |   |   |   |   |   |--- Естонія <= 0.50
+|   |   |   |   |   |   |   |--- value: [0.16]
+|   |   |   |   |   |   |--- Естонія >  0.50
+|   |   |   |   |   |   |   |--- value: [0.10]
+|   |   |   |   |   |--- English_Upper-Intermediate >  0.50
+|   |   |   |   |   |   |--- value: [0.04]
+|   |   |   |   |--- Релокейт >  0.50
+|   |   |   |   |   |--- value: [0.33]
+|   |   |   |--- Category_Marketing >  0.50
+|   |   |   |   |--- value: [1.00]
+|   |--- Україна >  0.50
+|   |   |--- Company_Delasport <= 0.50
+|   |   |   |--- Category_DevOps <= 0.50
+|   |   |   |   |--- Category_Lead <= 0.50
+|   |   |   |   |   |--- Category_Golang <= 0.50
+|   |   |   |   |   |   |--- Category_Node.js <= 0.50
+|   |   |   |   |   |   |   |--- Domain_Advertising / Marketing <= 0.50
+|   |   |   |   |   |   |   |   |--- Угорщина <= 0.50
+|   |   |   |   |   |   |   |   |   |--- Category_Support <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- Category_Lead Generation <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 53
+|   |   |   |   |   |   |   |   |   |   |--- Category_Lead Generation >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 13
+|   |   |   |   |   |   |   |   |   |--- Category_Support >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- English_Advanced/Fluent <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 13
+|   |   |   |   |   |   |   |   |   |   |--- English_Advanced/Fluent >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |--- Угорщина >  0.50
+|   |   |   |   |   |   |   |   |   |--- Company_Other <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.31]
+|   |   |   |   |   |   |   |   |   |--- Company_Other >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.27]
+|   |   |   |   |   |   |   |--- Domain_Advertising / Marketing >  0.50
+|   |   |   |   |   |   |   |   |--- Category_PHP <= 0.50
+|   |   |   |   |   |   |   |   |   |--- Таїланд <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- English_Intermediate <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 18
+|   |   |   |   |   |   |   |   |   |   |--- English_Intermediate >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 14
+|   |   |   |   |   |   |   |   |   |--- Таїланд >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.11]
+|   |   |   |   |   |   |   |   |--- Category_PHP >  0.50
+|   |   |   |   |   |   |   |   |   |--- English_Intermediate <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- English_Advanced/Fluent <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- English_Advanced/Fluent >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.07]
+|   |   |   |   |   |   |   |   |   |--- English_Intermediate >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- Релокейт <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.06]
+|   |   |   |   |   |   |   |   |   |   |--- Релокейт >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.03]
+|   |   |   |   |   |   |--- Category_Node.js >  0.50
+|   |   |   |   |   |   |   |--- Німеччина <= 0.50
+|   |   |   |   |   |   |   |   |--- English_Pre-Intermediate <= 0.50
+|   |   |   |   |   |   |   |   |   |--- Іспанія <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- Company_MoveUp Recruitment agency <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |   |--- Company_MoveUp Recruitment agency >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.21]
+|   |   |   |   |   |   |   |   |   |--- Іспанія >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.23]
+|   |   |   |   |   |   |   |   |--- English_Pre-Intermediate >  0.50
+|   |   |   |   |   |   |   |   |   |--- value: [0.04]
+|   |   |   |   |   |   |   |--- Німеччина >  0.50
+|   |   |   |   |   |   |   |   |--- Domain_SaaS <= 0.50
+|   |   |   |   |   |   |   |   |   |--- value: [0.23]
+|   |   |   |   |   |   |   |   |--- Domain_SaaS >  0.50
+|   |   |   |   |   |   |   |   |   |--- value: [0.25]
+|   |   |   |   |   |--- Category_Golang >  0.50
+|   |   |   |   |   |   |--- Domain_Advertising / Marketing <= 0.50
+|   |   |   |   |   |   |   |--- Domain_Fintech <= 0.50
+|   |   |   |   |   |   |   |   |--- Релокейт <= 0.50
+|   |   |   |   |   |   |   |   |   |--- English_Advanced/Fluent <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.26]
+|   |   |   |   |   |   |   |   |   |--- English_Advanced/Fluent >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- value: [0.25]
+|   |   |   |   |   |   |   |   |--- Релокейт >  0.50
+|   |   |   |   |   |   |   |   |   |--- value: [0.21]
+|   |   |   |   |   |   |   |--- Domain_Fintech >  0.50
+|   |   |   |   |   |   |   |   |--- value: [0.19]
+|   |   |   |   |   |   |--- Domain_Advertising / Marketing >  0.50
+|   |   |   |   |   |   |   |--- value: [0.11]
+|   |   |   |   |--- Category_Lead >  0.50
+|   |   |   |   |   |--- Київ <= 0.50
+|   |   |   |   |   |   |--- value: [0.31]
+|   |   |   |   |   |--- Київ >  0.50
+|   |   |   |   |   |   |--- English_Intermediate <= 0.50
+|   |   |   |   |   |   |   |--- value: [0.20]
+|   |   |   |   |   |   |--- English_Intermediate >  0.50
+|   |   |   |   |   |   |   |--- value: [0.12]
+|   |   |   |--- Category_DevOps >  0.50
+|   |   |   |   |--- Employment_Office або Remote <= 0.50
+|   |   |   |   |   |--- Вінниця <= 0.50
+|   |   |   |   |   |   |--- Domain_Healthcare / MedTech <= 0.50
+|   |   |   |   |   |   |   |--- Domain_Blockchain / Crypto <= 0.50
+|   |   |   |   |   |   |   |   |--- Львів <= 0.50
+|   |   |   |   |   |   |   |   |   |--- English_Upper-Intermediate <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- Польща <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- Польща >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.12]
+|   |   |   |   |   |   |   |   |   |--- English_Upper-Intermediate >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- Domain_E-commerce / Marketplace <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- Domain_E-commerce / Marketplace >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [0.09]
+|   |   |   |   |   |   |   |   |--- Львів >  0.50
+|   |   |   |   |   |   |   |   |   |--- value: [0.25]
+|   |   |   |   |   |   |   |--- Domain_Blockchain / Crypto >  0.50
+|   |   |   |   |   |   |   |   |--- value: [0.07]
+|   |   |   |   |   |   |--- Domain_Healthcare / MedTech >  0.50
+|   |   |   |   |   |   |   |--- English_Upper-Intermediate <= 0.50
+|   |   |   |   |   |   |   |   |--- value: [0.08]
+|   |   |   |   |   |   |   |--- English_Upper-Intermediate >  0.50
+|   |   |   |   |   |   |   |   |--- value: [0.09]
+|   |   |   |   |   |--- Вінниця >  0.50
+|   |   |   |   |   |   |--- value: [0.35]
+|   |   |   |   |--- Employment_Office або Remote >  0.50
+|   |   |   |   |   |--- Domain_E-commerce / Marketplace <= 0.50
+|   |   |   |   |   |   |--- Київ <= 0.50
+|   |   |   |   |   |   |   |--- value: [0.08]
+|   |   |   |   |   |   |--- Київ >  0.50
+|   |   |   |   |   |   |   |--- value: [0.06]
+|   |   |   |   |   |--- Domain_E-commerce / Marketplace >  0.50
+|   |   |   |   |   |   |--- value: [0.02]
+|   |   |--- Company_Delasport >  0.50
+|   |   |   |--- Category_Java <= 0.50
+|   |   |   |   |--- value: [0.23]
+|   |   |   |--- Category_Java >  0.50
+|   |   |   |   |--- Київ <= 0.50
+|   |   |   |   |   |--- value: [0.31]
+|   |   |   |   |--- Київ >  0.50
+|   |   |   |   |   |--- Employment_Гібридна робота <= 0.50
+|   |   |   |   |   |   |--- value: [0.29]
+|   |   |   |   |   |--- Employment_Гібридна робота >  0.50
+|   |   |   |   |   |   |--- value: [0.29]
+|--- Company_Adaptiq >  0.50
+|   |--- Domain_Advertising / Marketing <= 0.50
+|   |   |--- Domain_Machine Learning / Big Data <= 0.50
+|   |   |   |--- Employment_Office або Remote <= 0.50
+|   |   |   |   |--- Domain_SaaS <= 0.50
+|   |   |   |   |   |--- Category_Node.js <= 0.50
+|   |   |   |   |   |   |--- Польща <= 0.50
+|   |   |   |   |   |   |   |--- Category_C++ <= 0.50
+|   |   |   |   |   |   |   |   |--- Category_Python <= 0.50
+|   |   |   |   |   |   |   |   |   |--- value: [0.25]
+|   |   |   |   |   |   |   |   |--- Category_Python >  0.50
+|   |   |   |   |   |   |   |   |   |--- value: [0.25]
+|   |   |   |   |   |   |   |--- Category_C++ >  0.50
+|   |   |   |   |   |   |   |   |--- value: [0.25]
+|   |   |   |   |   |   |--- Польща >  0.50
+|   |   |   |   |   |   |   |--- Україна <= 0.50
+|   |   |   |   |   |   |   |   |--- value: [0.25]
+|   |   |   |   |   |   |   |--- Україна >  0.50
+|   |   |   |   |   |   |   |   |--- value: [0.26]
+|   |   |   |   |   |--- Category_Node.js >  0.50
+|   |   |   |   |   |   |--- value: [0.26]
+|   |   |   |   |--- Domain_SaaS >  0.50
+|   |   |   |   |   |--- Category_Node.js <= 0.50
+|   |   |   |   |   |   |--- Польща <= 0.50
+|   |   |   |   |   |   |   |--- value: [0.25]
+|   |   |   |   |   |   |--- Польща >  0.50
+|   |   |   |   |   |   |   |--- value: [0.26]
+|   |   |   |   |   |--- Category_Node.js >  0.50
+|   |   |   |   |   |   |--- value: [0.23]
+|   |   |   |--- Employment_Office або Remote >  0.50
+|   |   |   |   |--- Category_Node.js <= 0.50
+|   |   |   |   |   |--- value: [0.23]
+|   |   |   |   |--- Category_Node.js >  0.50
+|   |   |   |   |   |--- value: [0.24]
+|   |   |--- Domain_Machine Learning / Big Data >  0.50
+|   |   |   |--- Employment_Office або Remote <= 0.50
+|   |   |   |   |--- value: [0.22]
+|   |   |   |--- Employment_Office або Remote >  0.50
+|   |   |   |   |--- value: [0.25]
+|   |--- Domain_Advertising / Marketing >  0.50
+|   |   |--- value: [0.22]
